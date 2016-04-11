@@ -35,4 +35,5 @@ Currently includes all Babel transforms from es2015/react down to stage-0. Pick 
 Coming Soon:
 * SASS/CSS webpack loaders
 * CI
-* Detect production ENV and remove Redux DevTools.
+* Detect production ENV and remove Redux DevTools
+* Change server server framework from Express to Koa
